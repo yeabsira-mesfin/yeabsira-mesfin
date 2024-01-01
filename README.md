@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yeabsira Mesfin (Yeab | Yaba)</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate Web-Developer</h3>
 
 - 🔭 I’m currently working on [a website called HYBZ for a company called HYBZ Trading PLC](https://github.com/yeabsira-mesfin/HYBZ_Website.git)
 
