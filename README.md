@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [a website called HYBZ for a company called HYBZ Trading PLC](https://github.com/yeabsira-mesfin/HYBZ_Website.git)
 
-- 🌱 I’m currently learning Node.js**
+- 🌱 I’m currently learning Node.js
 
 - 👯 I’m looking to collaborate on **JavaScript Game**
 
