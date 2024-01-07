@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Node.js
 
-- 👯 I’m looking to collaborate on **JavaScript Game**
+- 👯 I’m looking to collaborate on **JavaScript Game*
 
 - 💬 Ask me about **Java, JavaScirpt, HMTL, CSS, SASS, Bootstrap, MySQL, and React.js
 
