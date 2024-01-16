@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java, JavaScirpt, HMTL, CSS, SASS, Bootstrap, MySQL, and React.js
 
-- 📫 How to reach me *yeabsira.mesfin29@gmail.com**
+- 📫 How to reach me *yeabsira.mesfin29@gmail.com*
 
 - ⚡ Fun fact: I have the same birthday as threads
 
