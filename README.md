@@ -12,7 +12,7 @@
 
 - 📫 How to reach me *yeabsira.mesfin29@gmail.com*
 
-- ⚡ Fun fact: I have the same birthday as threads
+- ⚡ Fun fact:I have the same birthday as threads
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
