@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on *JavaScript Game*
 
-- 💬 Ask me about **Bootstrap, CSS, HMTL, Java, JavaScirpt, MySQL, React.js, SASS, TailWind**
+- 💬 Ask me about **Bootstrap, CSS, HMTL, Java, JavaScirpt, MySQL, React.js, SASS, and Tailwind**
 
 - 📫 How to reach me *yeabsira.mesfin29@gmail.com*
 
