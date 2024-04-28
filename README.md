@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on [a website called HYBZ for a company called HYBZ Trading PLC](https://hybztrading.com)
 
-- 🌱 I’m currently learning MERN
 
 - 👯 I’m looking to collaborate on *JavaScript Game*
 
