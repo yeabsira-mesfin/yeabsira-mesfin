@@ -26,10 +26,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeabsira-mesfin&show_icons=true&locale=en&layout=compact" alt="yeabsira-mesfin" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahedere&" alt="mahedere" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeabsira-mesfin&" alt="mahedere" /></p>
  <p><img align="left" src="
-https://github-readme-stats.vercel.app/api/top-langs?username=mahedere&show_icons=true&locale=en&layout=compact"
+https://github-readme-stats.vercel.app/api/top-langs?username=yeabsira-mesfin&show_icons=true&locale=en&layout=compact"
 alt="mahedere" /></p>
 <p>&nbsp;<img align="center" src="
-https://github-readme-stats.vercel.app/api?username=mahedere&show_icons=true&locale=en"
+https://github-readme-stats.vercel.app/api?username=yeabsira-mesfin&show_icons=true&locale=en"
 alt="mahedere" /></p>
