@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [I’m currently working on a website called HYBZ for a company called HYBZ Trading PLC](https://hybztrading.com/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning *Next.js*
 
 - 👯 I’m looking to collaborate on **React**
 
