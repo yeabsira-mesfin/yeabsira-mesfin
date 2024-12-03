@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *Next.js*
 
-- 👯 I’m looking to collaborate on **React**
+- 👯 I’m looking to collaborate on *React*
 
 - 💬 Ask me about **React, JavaScript and Java**
 
