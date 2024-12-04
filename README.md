@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/yeabsiramesfin9" target="blank"><img src="https://img.shields.io/twitter/follow/yeabsiramesfin9?logo=twitter&style=for-the-badge" alt="yeabsiramesfin9" /></a> </p>
 
-- 🔭 I’m currently working on [I’m currently working on a website called HYBZ for a company called HYBZ Trading PLC](https://hybztrading.com/)
 
 - 🌱 I’m currently learning *Next.js*
 
