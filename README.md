@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/yeabsiramesfin9" target="blank"><img src="https://img.shields.io/twitter/follow/yeabsiramesfin9?logo=twitter&style=for-the-badge" alt="yeabsiramesfin9" /></a> </p>
 
 
-- 🌱 I’m currently learning *Next.js*
+- 🌱 I’m currently learning **Next.js*
 
 - 👯 I’m looking to collaborate on *React*
 
