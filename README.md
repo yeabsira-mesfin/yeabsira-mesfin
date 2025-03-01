@@ -1,10 +1,10 @@
-<h1 align="center">Hi👋, I'm I'm Yeabsira Mesfin ( Yeab|Yaba) </h1>
+<h1 align="center">Hi👋, I'm I'm Yeabsira Mesfin ( Yeab | Yaba ) </h1>
 <h3 align="center">Creative Front-End Developer | Mastering HTML, CSS, JavaScript,Tailwind CSS & React</h3>
 
 <p align="left"> <a href="https://twitter.com/yeabsiramesfin9" target="blank"><img src="https://img.shields.io/twitter/follow/yeabsiramesfin9?logo=twitter&style=for-the-badge" alt="yeabsiramesfin9" /></a> </p>
 
 
-- 🌱 I’m currently learning **Next.js*
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on *React*
 
