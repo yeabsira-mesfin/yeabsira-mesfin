@@ -1,27 +1,54 @@
-<h1 align="center">Hi👋, I'm I'm Yeabsira Mesfin ( Yeab | Yaba ) </h1>
-<h3 align="center">Creative Front-End Developer | Mastering HTML, CSS, JavaScript,Tailwind CSS & React</h3>
+<h1 align="center">Hi, I’m Yeabsira Mesfin 👋</h1>
 
-<p align="left"> <a href="https://twitter.com/yeabsiramesfin9" target="blank"><img src="https://img.shields.io/twitter/follow/yeabsiramesfin9?logo=twitter&style=for-the-badge" alt="yeabsiramesfin9" /></a> </p>
+<h3 align="center">
+Web Developer | Front-End Focused | HTML, CSS, JavaScript, React
+</h3>
 
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on *React*
-
-- 💬 Ask me about **React, JavaScript and Java**
-
-- 📫 How to reach me **yeabsira.mesfin29@gmail.com**
-
-- ⚡ Fun fact **I am the funniest guy alive, at least to myself!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yeabsiramesfin9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yeabsiramesfin9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yeabsira mesfin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeabsira mesfin" height="30" width="40" /></a>
+<p align="center">
+I build responsive, maintainable web applications and enjoy working close to the code — fixing bugs, improving UI, and shipping clean features.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeabsira-mesfin&show_icons=true&locale=en&layout=compact" alt="yeabsira-mesfin" /></p>
+### 🧑‍💻 What I Do
+- Build and maintain web interfaces using **HTML, CSS, JavaScript**
+- Develop reusable components with **React**
+- Fix UI bugs, responsiveness issues, and performance problems
+- Collaborate using **Git/GitHub** and follow clean coding practices
+- Translate designs and requirements into working code
 
+---
+
+### 🔧 Tech Stack
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
+
+---
+
+### 📌 Featured Work
+👉 Live demos and source code are available in my pinned repositories  
+👉 Each project includes real functionality, clean commits, and responsive design
+
+---
+
+### 📈 GitHub Stats
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeabsira-mesfin&layout=compact&theme=dark" />
+</p>
+
+---
+
+### 📫 Contact
+- Portfolio: [https://yeabsiramesfin.com ](https://yeabsira-mesfin.vercel.app/) 
+- GitHub: https://github.com/yeabsira-mesfin  
+- LinkedIn: https://linkedin.com/in/yeabsira-mesfin-76379928a  
+- Email: yeabsira.mesfin29@gmail.com
