@@ -1,21 +1,21 @@
 <h1 align="center">Hi, I’m Yeabsira Mesfin 👋</h1>
 
 <h3 align="center">
-Full-Stack Web Developer | React, TypeScript, Node.js, Python | Cybersecurity Foundations
+Full-Stack Software Developer | React, TypeScript, Node.js, Python | Cybersecurity Foundations
 </h3>
 
 <p align="center">
-I build, debug, and maintain web applications with a strong focus on clean code, usability, and real-world problem solving.
+I build, debug, and maintain web applications with a focus on clean code, scalability, and real-world problem solving.
 </p>
 
 ---
 
 ## 🧑‍💻 What I Do
-- Build responsive web interfaces using **HTML, CSS, JavaScript, TypeScript**
-- Develop component-based UIs with **React** and Tailwind CSS
-- Implement backend logic and APIs using **Node.js**
+- Build responsive user interfaces using **HTML, CSS, JavaScript, TypeScript**
+- Develop component-based frontends with **React** and Tailwind CSS
+- Implement backend logic and REST APIs using **Node.js** and **Python**
 - Work with relational and NoSQL databases (**MySQL, MongoDB**)
-- Debug issues, improve performance, and refactor existing code
+- Debug issues, refactor code, and improve performance
 - Collaborate using **Git/GitHub** and structured workflows
 - Apply **secure coding habits** and awareness of common web vulnerabilities
 
@@ -29,31 +29,21 @@ I build, debug, and maintain web applications with a strong focus on clean code,
 
 ### Backend
 - Node.js, Express  
+- Python (backend logic, scripting, data handling)  
 - REST APIs  
 
 ### Databases
 - MySQL  
 - MongoDB  
 
-### Tools & awareness
+### Tools & Foundations
 - Git, GitHub  
 - Linux CLI  
 - Postman  
 - Vercel  
-- Web security fundamentals (authentication, OWASP Top 10 awareness)
+- Web security fundamentals (authentication concepts, OWASP Top 10 awareness)
 
----
 
-## 📌 Projects
-My pinned repositories include:
-- Full-stack and frontend-focused applications
-- Clean commit history and readable code
-- Responsive layouts and real functionality
-- Live demos with source code
-
-👉 Each project includes technical decisions, features implemented, and improvements made.
-
----
 
 ## 📈 GitHub Stats
 <p>
@@ -63,7 +53,7 @@ My pinned repositories include:
 ---
 
 ## 📫 Contact
-- Portfolio: https://yeabsiramesfin.com  
+- Portfolio: https://yeabsira-mesfin.vercel.app/
 - GitHub: https://github.com/yeabsira-mesfin  
 - LinkedIn: https://linkedin.com/in/yeabsira-mesfin-76379928a  
 - Email: yeabsira.mesfin29@gmail.com
