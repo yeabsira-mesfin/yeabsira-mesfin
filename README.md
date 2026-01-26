@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Yeabsira Mesfin 👋</h1>
 
 <h3 align="center">
-Full-Stack Software Developer | React, TypeScript, Node.js, Python | Cybersecurity Foundations
+Full-Stack Software Developer | Python, React, TypeScript, Node.js | Cybersecurity Foundations
 </h3>
 
 <p align="center">
