@@ -47,7 +47,8 @@ I build, debug, and maintain web applications with a focus on clean code, scalab
 
 ## 📈 GitHub Stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeabsira-mesfin&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeabsira-mesfin&layout=compact&theme=dark&cache_seconds=1800&v=1" />
+
 </p>
 
 ---
