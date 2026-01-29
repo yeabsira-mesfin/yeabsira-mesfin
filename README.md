@@ -1,23 +1,23 @@
 <h1 align="center">Hi, I’m Yeabsira Mesfin 👋</h1>
 
 <h3 align="center">
-Full-Stack Software Developer | Python, React, TypeScript, Node.js | Cybersecurity Foundations
+Software Developer | M.S. Cybersecurity @ GWU | Python, React, TypeScript
 </h3>
 
 <p align="center">
-I build, debug, and maintain web applications with a focus on clean code, scalability, and real-world problem solving.
+I build and support web applications used by real users. I enjoy writing clean code, fixing bugs thoroughly, and learning how to build systems that are both useful and secure.
 </p>
 
 ---
 
 ## 🧑‍💻 What I Do
-- Build responsive user interfaces using **HTML, CSS, JavaScript, TypeScript**
-- Develop component-based frontends with **React** and Tailwind CSS
-- Implement backend logic and REST APIs using **Node.js** and **Python**
-- Work with relational and NoSQL databases (**MySQL, MongoDB**)
-- Debug issues, refactor code, and improve performance
-- Collaborate using **Git/GitHub** and structured workflows
-- Apply **secure coding habits** and awareness of common web vulnerabilities
+- Build responsive and accessible user interfaces with HTML, CSS, JavaScript, and TypeScript
+- Develop component based frontends using React and Tailwind CSS
+- Implement backend logic and REST APIs with Node.js and Python
+- Work with relational and NoSQL databases like MySQL and MongoDB
+- Debug production issues, refactor code, and improve performance
+- Collaborate using Git and GitHub in structured team workflows
+- Practice secure coding habits with awareness of common web risks
 
 ---
 
@@ -29,19 +29,19 @@ I build, debug, and maintain web applications with a focus on clean code, scalab
 
 ### Backend
 - Node.js, Express  
-- Python (backend logic, scripting, data handling)  
+- Python for backend logic, scripting, and data handling  
 - REST APIs  
 
 ### Databases
 - MySQL  
 - MongoDB  
 
-### Tools & Foundations
+### Tools & Security Foundations
 - Git, GitHub  
 - Linux CLI  
 - Postman  
 - Vercel  
-- Web security fundamentals (authentication concepts, OWASP Top 10 awareness)
+- Authentication basics and OWASP Top 10 awareness  
 
 ---
 
