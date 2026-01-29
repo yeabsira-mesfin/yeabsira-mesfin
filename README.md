@@ -1,54 +1,79 @@
 <h1 align="center">Hi, I’m Yeabsira Mesfin 👋</h1>
 
 <h3 align="center">
-Software Developer | M.S. Cybersecurity @ GWU | Python, React, TypeScript
+Software Engineer | Web Development & Cybersecurity Foundations
 </h3>
 
 <p align="center">
-I build and support web applications used by real users. I enjoy writing clean code, fixing bugs thoroughly, and learning how to build systems that are both useful and secure.
+I build and support web applications for real users. I focus on clean implementation, reliability, and learning how to build systems that are both useful and safe.
 </p>
 
 ---
 
-## 🧑‍💻 What I Do
-- Build responsive and accessible user interfaces with HTML, CSS, JavaScript, and TypeScript
-- Develop component based frontends using React and Tailwind CSS
-- Implement backend logic and REST APIs with Node.js and Python
-- Work with relational and NoSQL databases like MySQL and MongoDB
-- Debug production issues, refactor code, and improve performance
-- Collaborate using Git and GitHub in structured team workflows
-- Practice secure coding habits with awareness of common web risks
+## 🧑‍💻 About Me
+I’m a web developer and M.S. student in Cybersecurity (Computer Science track) at The George Washington University.
+
+My background comes from hands-on client work where I built, maintained, and improved production web applications. Over time, I learned how to manage multiple projects, debug issues under pressure, and communicate clearly with both clients and teammates.
+
+Alongside software development, I’m building a strong foundation in secure-by-design systems, authentication concepts, and common web risks.
+
+I’m currently open to internships, entry-level roles, and part-time opportunities.
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ What I Do
+- Build responsive, accessible interfaces using HTML, CSS, JavaScript, and TypeScript
+- Develop React applications with a focus on usability and clarity
+- Implement backend logic and REST APIs using Node.js and Python
+- Work with MySQL and MongoDB for real application data
+- Debug production issues, reproduce bugs, and deliver reliable fixes
+- Collaborate with clients and teams using Git and GitHub
+- Apply secure coding basics and web security awareness in projects
 
-### Frontend
-- HTML, CSS, JavaScript, TypeScript  
-- React, Tailwind CSS  
+---
 
-### Backend
-- Node.js, Express  
-- Python for backend logic, scripting, and data handling  
-- REST APIs  
+## 🔧 Skills
 
-### Databases
-- MySQL  
-- MongoDB  
+### Software Development
+- HTML, CSS, JavaScript
+- React, TypeScript, Tailwind CSS
+- Node.js, Express
+- Python
+- MySQL, MongoDB
 
-### Tools & Security Foundations
-- Git, GitHub  
-- Linux CLI  
-- Postman  
-- Vercel  
-- Authentication basics and OWASP Top 10 awareness  
+### Cloud & Tooling Foundations
+- Git, GitHub
+- Linux CLI
+- API testing and debugging
+- Vercel deployments
+- Troubleshooting and root-cause thinking
+
+### Cybersecurity Foundations
+- Secure authentication concepts
+- OWASP Top 10 awareness
+- Logging and monitoring basics
+- Network security fundamentals
+
+---
+
+## 📂 Selected Projects
+- **TouristTrail**  
+  Location-based platform for discovering nearby attractions with a focus on usability and responsive UI  
+  https://places-to-visit-pied.vercel.app/
+
+- **ShopEase**  
+  E-commerce platform focused on clean navigation, cart management, and user experience  
+  https://shopping-lime-omega.vercel.app/
+
+- **TaskFlow**  
+  Task and project management platform designed for clarity and simple workflows  
+  https://project-managment-ten.vercel.app/
 
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeabsira-mesfin&layout=compact&theme=dark&langs_count=8&hide=html,css,jupyter%20notebook&cache_seconds=3600&v=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeabsira-mesfin&layout=compact&theme=dark&langs_count=8&cache_seconds=3600" />
 </p>
 
 ---
