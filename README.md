@@ -12,11 +12,8 @@ I build and support web applications for real users. I focus on clean implementa
 
 ## 🧑‍💻 About Me
 I’m a web developer and M.S. student in Cybersecurity (Computer Science track) at The George Washington University.
-
 My background comes from hands-on client work where I built, maintained, and improved production web applications. Over time, I learned how to manage multiple projects, debug issues under pressure, and communicate clearly with both clients and teammates.
-
 Alongside software development, I’m building a strong foundation in secure-by-design systems, authentication concepts, and common web risks.
-
 I’m currently open to internships, entry-level roles, and part-time opportunities.
 
 ---
@@ -53,21 +50,6 @@ I’m currently open to internships, entry-level roles, and part-time opportunit
 - OWASP Top 10 awareness
 - Logging and monitoring basics
 - Network security fundamentals
-
----
-
-## 📂 Selected Projects
-- **TouristTrail**  
-  Location-based platform for discovering nearby attractions with a focus on usability and responsive UI  
-  https://places-to-visit-pied.vercel.app/
-
-- **ShopEase**  
-  E-commerce platform focused on clean navigation, cart management, and user experience  
-  https://shopping-lime-omega.vercel.app/
-
-- **TaskFlow**  
-  Task and project management platform designed for clarity and simple workflows  
-  https://project-managment-ten.vercel.app/
 
 ---
 
