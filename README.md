@@ -54,10 +54,8 @@ I’m currently open to internships, entry-level roles, and part-time opportunit
 ---
 
 ## 📈 GitHub Stats
-## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeabsira-mesfin&layout=compact&langs_count=8)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeabsira-mesfin&layout=compact&cache_seconds=1800)
 
 ---
 
