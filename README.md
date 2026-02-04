@@ -55,7 +55,7 @@ I’m currently open to internships, entry-level roles, and part-time opportunit
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=yeabsira-mesfin&layout=compact)
+![Most Commit Language](https://raw.githubusercontent.com/yeabsira-mesfin/yeabsira-mesfin/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 
 
 ---
