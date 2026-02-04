@@ -55,7 +55,8 @@ I’m currently open to internships, entry-level roles, and part-time opportunit
 
 ## 📈 GitHub Stats
 
-![Most Commit Language](https://raw.githubusercontent.com/yeabsira-mesfin/yeabsira-mesfin/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
+![Languages](https://metrics.lecoq.io/yeabsira-mesfin?template=classic&languages=1)
 
 
 ---
