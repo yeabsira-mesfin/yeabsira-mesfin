@@ -56,7 +56,7 @@ I’m currently open to internships, entry-level roles, and part-time opportunit
 ## Most Used Languages
 
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeabsira-mesfin&layout=compact"
     alt="Most Used Languages"
