@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Yeabsira Mesfin 👋</h1>
 
 <h3 align="center">
-Software Engineer | Web Development & Cybersecurity Foundations
+Software Engineer | Web Development & Cybersecurity
 </h3>
 
 <p align="center">
