@@ -52,22 +52,25 @@ JWT • RBAC • Secure API Design • Authentication • Network Security • T
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Engineering Projects
 
-### [Windows Infrastructure Reliability Console](https://github.com/yeabsira-mesfin/job-listing-)
-Windows focused reliability lab with PowerShell health checks, network visibility, SHA-256 backup verification, failover simulation, and Windows CI.
+### [Windows Infrastructure Reliability Console](https://github.com/yeabsira-mesfin/windows-infrastructure-reliability-console)
+Windows-focused reliability lab with PowerShell health checks, network visibility, SHA-256 backup verification, failover simulation, and Windows CI.
+
+### [Secure Cloud Infrastructure as Code](https://github.com/yeabsira-mesfin/secure-cloud-infrastructure-iac)
+Terraform-based AWS infrastructure with multi-AZ design, load balancing, autoscaling, security groups, and encrypted versioned storage.
 
 ### [High Availability Hosting Lab](https://github.com/yeabsira-mesfin/high-availability-hosting-lab)
 Containerized redundant hosting environment with NGINX load balancing, health checks, failover testing, and Prometheus monitoring.
-
-### [Secure Cloud Infrastructure as Code](https://github.com/yeabsira-mesfin/secure-cloud-infrastructure-iac)
-Terraform based AWS infrastructure with multi-AZ design, load balancing, autoscaling, security groups, and encrypted versioned storage.
 
 ### [Infrastructure Operations Toolkit](https://github.com/yeabsira-mesfin/infrastructure-operations-toolkit)
 Python toolkit for HTTP/TCP monitoring, incident evidence collection, backup creation, and SHA-256 integrity verification.
 
 ### [Secure Login Analyzer](https://github.com/yeabsira-mesfin/secure_login_analyzer)
-Python based authentication event analyzer for repeated login failures, blocked IP activity, location anomalies, validation, and automated tests.
+Python-based authentication event analyzer for repeated login failures, blocked IP activity, location anomalies, validation, and automated tests.
+
+### [TechBoard](https://github.com/yeabsira-mesfin/techboard)
+Full-stack Django and PostgreSQL job platform with role-based authentication, job search and filtering, resume uploads, applicant tracking, and separate employer and job-seeker dashboards.
 
 ---
 
@@ -78,7 +81,7 @@ Python based authentication event analyzer for repeated login failures, blocked 
 - Improved database performance by **40%**
 - Reduced release cycles by **30%**
 - Processed **5,000+ attendee records with zero data loss**
-- Maintained **no critical incidents over a two year production period**
+- Maintained **no critical incidents over a two-year production period**
 - Delivered and supported **200+ event technology implementations**
 
 ---
@@ -103,14 +106,18 @@ I am authorized to work in the United States without sponsorship.
 
 ---
 
-## 📊 GitHub
+## 📌 GitHub Highlights
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeabsira-mesfin&layout=compact"
-    alt="Yeabsira Mesfin's most used GitHub languages"
-  />
-</p>
+For a quick technical review, start with these repositories:
+
+**[Windows Infrastructure Reliability Console](https://github.com/yeabsira-mesfin/windows-infrastructure-reliability-console)** •
+**[Secure Cloud Infrastructure IaC](https://github.com/yeabsira-mesfin/secure-cloud-infrastructure-iac)** •
+**[High Availability Hosting Lab](https://github.com/yeabsira-mesfin/high-availability-hosting-lab)** •
+**[Infrastructure Operations Toolkit](https://github.com/yeabsira-mesfin/infrastructure-operations-toolkit)** •
+**[Secure Login Analyzer](https://github.com/yeabsira-mesfin/secure_login_analyzer)** •
+**[TechBoard](https://github.com/yeabsira-mesfin/techboard)**
+
+No third-party stats widget is used here, so the profile stays reliable instead of showing broken external cards.
 
 ---
 
