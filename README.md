@@ -117,7 +117,6 @@ For a quick technical review, start with these repositories:
 **[Secure Login Analyzer](https://github.com/yeabsira-mesfin/secure_login_analyzer)** •
 **[TechBoard](https://github.com/yeabsira-mesfin/techboard)**
 
-No third-party stats widget is used here, so the profile stays reliable instead of showing broken external cards.
 
 ---
 
