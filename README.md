@@ -1,72 +1,123 @@
-<h1 align="center">Hi, I’m Yeabsira Mesfin 👋</h1>
+<h1 align="center">Hi, I'm Yeabsira Mesfin 👋</h1>
 
-<h3 align="center">
-Software Engineer | Web Development & Cybersecurity
-</h3>
+<h3 align="center">Software Engineer | Cybersecurity M.S. @ GWU | Infrastructure, Networking & Secure Systems</h3>
 
 <p align="center">
-I build and support web applications for real users. I focus on clean implementation, reliability, and learning how to build systems that are both useful and safe.
+  <a href="https://yeabsira-mesfin.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/yeabsira-mesfin-76379928a">LinkedIn</a> •
+  <a href="https://x.com/YeabsiraMesfin9">X</a> •
+  <a href="mailto:yeabsira.mesfin29@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-I’m a web developer and M.S. student in Cybersecurity (Computer Science track) at The George Washington University.
-My background comes from hands-on client work where I built, maintained, and improved production web applications. Over time, I learned how to manage multiple projects, debug issues under pressure, and communicate clearly with both clients and teammates.
-Alongside software development, I’m building a strong foundation in secure-by-design systems, authentication concepts, and common web risks.
-I’m currently open to internships, entry-level roles, and part-time opportunities.
+## 👨‍💻 About Me
+
+I'm a software engineer with **5+ years of software development experience**, beginning with freelance work in **2019** and later moving into enterprise technical delivery.
+
+My background combines **full stack engineering, APIs, debugging, production support, integrations, client delivery, and technical leadership**. I have built and supported solutions for enterprise clients including **BCD Travel, YPO, Abbott, and CDW**.
+
+I'm currently completing an **M.S. in Cybersecurity in Computer Science at The George Washington University**, where I am expanding deeper into **network security, infrastructure reliability, Linux, authentication, secure systems, and defensive engineering**.
+
+I enjoy work at the intersection of **software, infrastructure, and cybersecurity**.
 
 ---
 
-## 🛠️ What I Do
-- Build responsive, accessible interfaces using HTML, CSS, JavaScript, and TypeScript
-- Develop React applications with a focus on usability and clarity
-- Implement backend logic and REST APIs using Node.js and Python
-- Work with MySQL and MongoDB for real application data
-- Debug production issues, reproduce bugs, and deliver reliable fixes
-- Collaborate with clients and teams using Git and GitHub
-- Apply secure coding basics and web security awareness in projects
+## 🔐 Current Focus
+
+- Network security and traffic analysis
+- Linux and systems fundamentals
+- Infrastructure reliability and automation
+- Authentication, JWT, and RBAC
+- Secure API and application design
+- Monitoring, incident thinking, and defensive controls
+- Cloud and Infrastructure as Code
+- Software engineering with a security mindset
 
 ---
 
-## 🔧 Skills
+## 🛠️ Technical Skills
 
-### Software Development
-- HTML, CSS, JavaScript
-- React, TypeScript, Tailwind CSS
-- Node.js, Express
-- Python
-- MySQL, MongoDB
+### Software Engineering
+JavaScript • TypeScript • React • Next.js • Node.js • Express.js • REST APIs • Python • Java • C# • HTML • CSS
 
-### Cloud & Tooling Foundations
-- Git, GitHub
-- Linux CLI
-- API testing and debugging
-- Vercel deployments
-- Troubleshooting and root-cause thinking
+### Data
+SQL • MySQL • MongoDB
 
-### Cybersecurity Foundations
-- Secure authentication concepts
-- OWASP Top 10 awareness
-- Logging and monitoring basics
-- Network security fundamentals
+### Infrastructure & Tooling
+Linux • Docker • Git • GitHub • CI/CD • Terraform • Networking • Debugging • Testing • Production Support
+
+### Security
+JWT • RBAC • Secure API Design • Authentication • Network Security • Traffic Analysis • Integrity Verification • Secure Coding
 
 ---
 
-## Most Used Languages
-<p align="left">
+## 🚀 Selected Projects
+
+### [Windows Infrastructure Reliability Console](https://github.com/yeabsira-mesfin/job-listing-)
+Windows focused reliability lab with PowerShell health checks, network visibility, SHA-256 backup verification, failover simulation, and Windows CI.
+
+### [High Availability Hosting Lab](https://github.com/yeabsira-mesfin/high-availability-hosting-lab)
+Containerized redundant hosting environment with NGINX load balancing, health checks, failover testing, and Prometheus monitoring.
+
+### [Secure Cloud Infrastructure as Code](https://github.com/yeabsira-mesfin/secure-cloud-infrastructure-iac)
+Terraform based AWS infrastructure with multi-AZ design, load balancing, autoscaling, security groups, and encrypted versioned storage.
+
+### [Infrastructure Operations Toolkit](https://github.com/yeabsira-mesfin/infrastructure-operations-toolkit)
+Python toolkit for HTTP/TCP monitoring, incident evidence collection, backup creation, and SHA-256 integrity verification.
+
+### [Secure Login Analyzer](https://github.com/yeabsira-mesfin/secure_login_analyzer)
+Python based authentication event analyzer for repeated login failures, blocked IP activity, location anomalies, validation, and automated tests.
+
+---
+
+## 📈 Engineering Impact
+
+- Built **10+ full stack applications**
+- Supported enterprise clients including **BCD Travel, YPO, Abbott, and CDW**
+- Improved database performance by **40%**
+- Reduced release cycles by **30%**
+- Processed **5,000+ attendee records with zero data loss**
+- Maintained **no critical incidents over a two year production period**
+- Delivered and supported **200+ event technology implementations**
+
+---
+
+## 🎓 Education
+
+**The George Washington University**  
+M.S. Cybersecurity in Computer Science, expected 2027
+
+**Microlink Information Technology College**  
+B.S. Computer Science
+
+---
+
+## 🎯 Career Interests
+
+I'm interested in opportunities across:
+
+**Software Engineering • Infrastructure Engineering • Security Engineering • Application Security • Network Security • Cloud & Systems Engineering**
+
+I am authorized to work in the United States without sponsorship.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeabsira-mesfin&layout=compact"
-    alt="Most Used Languages"
+    alt="Yeabsira Mesfin's most used GitHub languages"
   />
 </p>
 
-
-
 ---
 
-## 📫 Contact
-- Portfolio: https://yeabsira-mesfin.vercel.app  
-- GitHub: https://github.com/yeabsira-mesfin  
-- LinkedIn: https://linkedin.com/in/yeabsira-mesfin-76379928a  
-- Email: yeabsira.mesfin29@gmail.com
+## 📫 Connect With Me
+
+- 🌐 [Portfolio](https://yeabsira-mesfin.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yeabsira-mesfin-76379928a)
+- 🐙 [GitHub](https://github.com/yeabsira-mesfin)
+- 𝕏 [@YeabsiraMesfin9](https://x.com/YeabsiraMesfin9)
+- ✉️ [yeabsira.mesfin29@gmail.com](mailto:yeabsira.mesfin29@gmail.com)
