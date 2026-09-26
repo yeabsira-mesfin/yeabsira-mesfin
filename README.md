@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://yeabsira-mesfin.vercel.app/"><strong>Official Portfolio: Yeabsira Mesfin</strong></a> •
-  <a href="https://www.linkedin.com/in/yeabsira-mesfin-abera-76379928a/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/yeabsira-mesfin-76379928a">LinkedIn: Yeabsira Mesfin</a> •
   <a href="https://x.com/YeabsiraMesfin9">X</a> •
   <a href="mailto:yeabsira.mesfin29@gmail.com">Email</a>
 </p>
@@ -124,7 +124,7 @@ For a quick technical review, start with these repositories:
 ## 📫 Connect With Me
 
 - 🌐 **[Official Portfolio | Yeabsira Mesfin](https://yeabsira-mesfin.vercel.app/)**
-- 💼 [LinkedIn](https://www.linkedin.com/in/yeabsira-mesfin-abera-76379928a/)
+- 💼 [LinkedIn | Yeabsira Mesfin](https://www.linkedin.com/in/yeabsira-mesfin-76379928a)
 - 🐙 [GitHub](https://github.com/yeabsira-mesfin)
 - 𝕏 [@YeabsiraMesfin9](https://x.com/YeabsiraMesfin9)
 - ✉️ [yeabsira.mesfin29@gmail.com](mailto:yeabsira.mesfin29@gmail.com)
