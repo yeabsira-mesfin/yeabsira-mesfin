@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Yeabsira Mesfin 👋</h1>
+<h1 align="center">Yeabsira Mesfin</h1>
 
 <h3 align="center">Software Engineer | Cybersecurity M.S. @ GWU | Infrastructure, Networking & Secure Systems</h3>
 
 <p align="center">
-  <a href="https://yeabsira-mesfin.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/yeabsira-mesfin-76379928a/">LinkedIn</a> •
+  <a href="https://yeabsira-mesfin.vercel.app/"><strong>Official Portfolio: Yeabsira Mesfin</strong></a> •
+  <a href="https://www.linkedin.com/in/yeabsira-mesfin-abera-76379928a/">LinkedIn</a> •
   <a href="https://x.com/YeabsiraMesfin9">X</a> •
   <a href="mailto:yeabsira.mesfin29@gmail.com">Email</a>
 </p>
@@ -13,7 +13,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a software engineer with **5+ years of software development experience**, beginning with freelance work in **2019** and later moving into enterprise technical delivery.
+I'm **Yeabsira Mesfin**, a software engineer with **5+ years of software development experience**, beginning with freelance work in **2019** and later moving into enterprise technical delivery.
+
+My official portfolio is **[https://yeabsira-mesfin.vercel.app/](https://yeabsira-mesfin.vercel.app/)**.
 
 My background combines **full stack engineering, APIs, debugging, production support, integrations, client delivery, and technical leadership**. I have built and supported solutions for enterprise clients including **BCD Travel, YPO, Abbott, and CDW**.
 
@@ -117,13 +119,12 @@ For a quick technical review, start with these repositories:
 **[Secure Login Analyzer](https://github.com/yeabsira-mesfin/secure_login_analyzer)** •
 **[TechBoard](https://github.com/yeabsira-mesfin/techboard)**
 
-
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 [Portfolio](https://yeabsira-mesfin.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yeabsira-mesfin-76379928a/)
+- 🌐 **[Official Portfolio | Yeabsira Mesfin](https://yeabsira-mesfin.vercel.app/)**
+- 💼 [LinkedIn](https://www.linkedin.com/in/yeabsira-mesfin-abera-76379928a/)
 - 🐙 [GitHub](https://github.com/yeabsira-mesfin)
 - 𝕏 [@YeabsiraMesfin9](https://x.com/YeabsiraMesfin9)
 - ✉️ [yeabsira.mesfin29@gmail.com](mailto:yeabsira.mesfin29@gmail.com)
